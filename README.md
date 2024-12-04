@@ -1,2 +1,2 @@
 # AdventofCode24
-Lousy code to Advent of Code 2024
+Code to Advent of Code 2024!
