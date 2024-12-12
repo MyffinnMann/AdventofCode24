@@ -2,7 +2,7 @@
 CC = gcc               
 CFLAGS = -Wall -Wextra  
 TARGET = compiled_and_linked_program        
-SRC = Puzzle_1.c            #name of C file
+SRC = Puzzle_1_part_2.c            #name of C file
    
 all: $(TARGET)
 
