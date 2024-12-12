@@ -25,7 +25,7 @@ int main() {
 
     // Sort both lists
     qsort(left_list, size, sizeof(int), compare);
-    qsort(right_list, size, sizeof(int), compare);
+    qsort(right_list, size, sizeof(int), compare); // I choose to keep the sorting of the lists from part 1, works the same without sorting
   
     for (int i = 0; i < size; i++){
         int target = left_list[i]; // This is what will be the single number in the left list
